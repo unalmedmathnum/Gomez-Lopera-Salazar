@@ -1,4 +1,4 @@
-Descripción del contenido
+Descripción del contenido: 
 Este directorio contiene los códigos (sin los tests realizados para la tarea), con los cuales se podrá experimentar a través de un archivo .py. Cada método se presenta en un archivo separado para facilitar la organización de los experimentos de manera independiente.
 
 Si se requiere realizar experimentos directamente sobre los tests desarrollados en la tarea, se recomienda acceder a los archivos principales o, en su defecto, utilizar los siguientes enlaces de Google Colab donde se encuentra el trabajo completo y los respectivos códigos:
