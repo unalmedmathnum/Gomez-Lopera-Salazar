@@ -1,0 +1,9 @@
+1. El código de valores y vectores propios basado en las raices del polinomio característico usa la función eig de python 
+https://numpy.org/doc/2.1/reference/generated/numpy.linalg.eig.html
+pero esa función no usa el método de encontrar raices del polinomio característico. Es decir, esa implementación no 
+corresponde a la tarea. 
+2. Me hubiera gustado una comparación de los métodos aplicado a las matrices de test. ¿Para cuales matrices cada método es
+mejor y/o peor? 
+3. Solo hay commits de Ricardo, la idea de trabajar en github es que todos colaboren y puedan interactuar con commits. 
+
+Nota: 4
